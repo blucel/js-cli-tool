@@ -1,0 +1,52 @@
+{
+  "_from": "js-cli-tool@^1.0.0",
+  "_id": "js-cli-tool@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-I55oM13deXH85EzWW+oItJpz0ONhPAcfWRGsPAwJyPU4H2vcayB0C7rf5YnlSxs2gy5qBybKrBFY6xjWv2v2EQ==",
+  "_location": "/js-cli-tool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "js-cli-tool@^1.0.0",
+    "name": "js-cli-tool",
+    "escapedName": "js-cli-tool",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/js-cli-tool/-/js-cli-tool-1.0.0.tgz",
+  "_shasum": "3ec259e86cbec1626df9dadc3bba5234a3645746",
+  "_spec": "js-cli-tool@^1.0.0",
+  "_where": "E:\\BaiduNetdiskDownload\\app\\lernatest",
+  "author": "",
+  "bin": {
+    "js": "bin/index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download": "^8.0.0",
+    "fs-extra": "^10.0.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.1.1",
+    "log-symbols": "3.0.0",
+    "ora": "^5.4.1",
+    "path": "^0.12.7",
+    "update-notifier": "^5.1.0"
+  },
+  "deprecated": false,
+  "description": "js create app",
+  "keywords": [],
+  "license": "ISC",
+  "main": "./bin/index.js",
+  "name": "js-cli-tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
